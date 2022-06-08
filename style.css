@@ -326,7 +326,7 @@ ul li a:hover{
   }
   #p1{
     font-size: 3rem;
-  }
+  }	  
   .top-container {
     height: 1400px;
   }
@@ -361,7 +361,7 @@ ul li a:hover{
   }
   .p2{
     line-height: 1.2;
-    font-size: 3rem;
+    font-size: 1rem;
     padding: 0;
   }
   hr{
