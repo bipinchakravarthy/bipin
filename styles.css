@@ -209,8 +209,9 @@ ul li a:hover{
   }
   .p2{
     line-height: 1.2;
-    font-size: 3rem;
+    font-size: 1rem;
     padding: 0;
+    margin-bottom: 10%;
   }
   h3{
     font-size: 60px;
