@@ -69,7 +69,7 @@ ul li a:hover{
 .midlogo{
 	width: 140px;
 	height: 140px;
-	padding-top: 80px;
+	padding-top: 150px;
 }
 .contact-me{
 	width: 50%;
@@ -200,6 +200,7 @@ ul li a:hover{
   .midlogo{
     width: 310px;
     height: 310px;
+    padding-top: 200px;
   }
   ul li a{
     font-size: 3rem;
