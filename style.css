@@ -149,11 +149,12 @@ ul li a:hover{
   width: 50%;
   margin-left: 25%;
   text-align: center;
+  margin-bottom:7%;
 }
 .skill_img{
   width: 80px;
   margin: 0 15px;
-  margin-bottom:20%;
+  margin-bottom:10%;
 }
 
 .contact-me{
